@@ -1,16 +1,36 @@
-##                                                            TECH 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<!--
-**limjg01/limjg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> I'm JaeGyun!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 I'm a 1st year would-be AI student<br>
+🌱 Currently learning: Python, Java, AI<br>
+💡 Interested in: AI, Soccer
+📫 How to reach me: jaegyun7852@naver.com
+🔭 I'm working on: Learning GitHub and building cool stuff<br>
+⚡ Fun fact: _
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+</p>
+
+---
+
+###
+
